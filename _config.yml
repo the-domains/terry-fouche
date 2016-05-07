@@ -1,0 +1,28 @@
+name: Terry Fouche
+favicon: null
+layout_spectrum: 0.2583317351527512
+typography_spectrum: 0.756995034404099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5741738353390247
+  lightness: 0.5469815486576408
+  saturation: 0.96490723406896
+  rhythmicContrast: 0.38375520380213857
+purpose: []
